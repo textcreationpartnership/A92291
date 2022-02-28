@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons proposed for the encouragement of all people to under-write to the new subscriptions, appointed to be made to the late East-India companyes stock</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92291</idno>
+            <idno type="STC">Wing R583B</idno>
+            <idno type="STC">ESTC R230761</idno>
+            <idno type="EEBO-CITATION">99899651</idno>
+            <idno type="PROQUEST">99899651</idno>
+            <idno type="VID">154338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2412:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons proposed for the encouragement of all people to under-write to the new subscriptions, appointed to be made to the late East-India companyes stock</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Includes docket title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Stocks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <div type="introduction">
+               <pb n="1" facs="tcp:154338:1" rendition="simple:additions"/>
+               <head>REASONS <hi>Propoſed for the</hi> Encourage<g ref="char:EOLhyphen"/>ment <hi>of all People to under-write to the</hi> New Subſcriptions, <hi>appointed to be made to the late</hi> Eaſt-India <hi>Companyes Stock.</hi>
+               </head>
+               <p n="1">I. <hi>BEcauſe</hi> the ſaid Company have been a long time a Corporation, for the <hi>Honour and Profit</hi> of the Nation.</p>
+               <p n="2">II. <hi>Becauſe</hi> they have <hi>a great Eſtate, clear of all Debts and Incumbrances</hi> at Home and Abroad, intrinſically worth more than 150 <hi>l. per cent.</hi> which is above 1100000 <hi>l.</hi>
+               </p>
+               <p n="3">III. <hi>Becauſe all their Charters,</hi> as well their Old ones, as thoſe two lately obtained, are to be confirmed by <hi>Act of Parliament.</hi>
+               </p>
+               <p n="4">IV. <hi>Becauſe</hi> their <hi>Stock</hi> will <hi>Riſe conſiderably</hi> ſo ſoon as theſe <hi>Subſcrip<g ref="char:EOLhyphen"/>tions</hi> are compleated, or any <hi>Ships Arrive,</hi> although it be not worth <hi>much,</hi> and that the Company ſhould not be confirmed by <hi>Act of Parli<g ref="char:EOLhyphen"/>ament;</hi> and then one may eaſily ſell out again to <hi>Profit.</hi>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <head>1. <hi>Becauſe</hi> the ſaid <hi>Company</hi> have been a long time a <hi>Corporation, to the Honour and Profit of this Nation.</hi>
+               </head>
+               <p>But as all <hi>Generals</hi> are made up of <hi>Particulars,</hi> ſo it may not be amiſs to give <hi>ſome particular Inſtances</hi> to ſhew how they have been a long time <hi>a Corporation to the Honour and Profit of this Nation,</hi> which appears very plain by what follows, <hi>viz.</hi>
+               </p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> that they obtained the grant of <hi>the ſole Trade of the</hi> Eaſt-Indies <hi>excluſive</hi> of all others, and exer<g ref="char:EOLhyphen"/>ciſed the ſame, though the <hi>Subjects of</hi> England, could not, nor can be excluded from it but by <hi>Act of Parliament,</hi> as may appear by <hi>the Kings Meſſage</hi> ſent to the <hi>Houſe of Commons,</hi> in <hi>Novemb.</hi> 1692. and likewiſe by the Opinion of the <hi>Judges,</hi> which has been given in this Matter.</p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they have obtained <hi>the power of Seizing the Ships and Goods</hi> of their Fellow-Subjects, for Trading into the <hi>Eaſt-Indies,</hi> and have actually put the ſame Power in <hi>Erecution,</hi> contrary to <hi>Law.</hi>
+               </p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they have procured <hi>Ships outward-bound to be Arreſted and Stopped in</hi> England, upon
+<pb n="2" facs="tcp:154338:2"/>pretence of <hi>their having notice,</hi> that they were Bound to the <hi>Eaſt-Indies,</hi> though <hi>no Law</hi> hinders them from going thither.</p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they have Obtained and Executed <hi>the Power of Seizing, Impriſoning, and Fini<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g</hi> the Perſons of their Fellow-Subjects for Trading into the <hi>Eaſt-Indies,</hi> which <hi>no Law Prohibits,</hi> or <hi>makes Criminal;</hi> and it muſt not be denied, but that 'tis <hi>a Great Honour and Profit to any Nation,</hi> where a few Subjects have arrived to the Exerciſe of <hi>ſuch Powers,</hi> which ſome of <hi>the Greateſt Potentates in the World</hi> cannot pretend to.</p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they Com<g ref="char:EOLhyphen"/>menced, and Proſecuted ſeveral <hi>Suits at Law,</hi> in Actions of 100000 <hi>l.</hi> — and 200000 <hi>l.</hi> — each; againſt divers of their <hi>Fellow-Subjects,</hi> for Trading to the <hi>Eaſt-Indies,</hi> which by Law they might do; and thereby have put them to <hi>Great and Vexatious Oppreſſions,</hi> without any other Remedy than <hi>Patience,</hi> the common Comfort of all Misfortunes.</p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they Pro<g ref="char:EOLhyphen"/>cured <hi>a Commiſſion</hi> to Execute <hi>Martial Law;</hi> and have Executed the ſame on <hi>the Lives</hi> of their Fellow-Subjects, <hi>contrary to Law.</hi>
+               </p>
+               <p>It was <hi>for the Honour and Profit of the Nation,</hi> That they Cauſed the Subjects of <hi>England <hi>to be Hanged;</hi>
+                  </hi> when on their Tryals they were only found Guilty of a <hi>Riot:</hi> — Which is a greater Power than <hi>the King himſelf</hi> has; who can cauſe no man to be <hi>Hanged,</hi> but <hi>by due Courſe of Law.</hi>
+               </p>
+               <p>
+                  <hi>To the Honour and Profit of the Nation,</hi> They have <hi>Paid ſuch vast Summs of Money for Cuſtoms,</hi> although the <hi>Duties</hi> on all <hi>Eaſt India</hi> Goods are now ſo <hi>extremely Low:</hi> For they have Paid in Two whole Years of their Trade, <hi>Twenty Thouſand Pounds;</hi> which upon the Trade they formerly uſed to drive, or might now be driven, would have amounted to more than <hi>Ten Times</hi> that Summ.</p>
+               <p>
+                  <hi>To the Honour and Profit of the Nation,</hi> They have in a manner given this whole Trade to the <hi>Dutch,</hi> who now ſupply all the World (<hi>England</hi> not excepted) with moſt ſorts of <hi>Eaſt-India</hi> Commodities.</p>
+               <p>But however they are Commended, <hi>as Honourable, and Pro<g ref="char:EOLhyphen"/>fitable to the Nation;</hi> yet ſome of their Actions have been No<g ref="char:EOLhyphen"/>toriouſly and Scandalouſly <hi>Fraudulent</hi> and <hi>Immoral,</hi> as well as <hi>Cruel</hi> and <hi>Bloody.</hi> For the <hi>Hanging</hi> thoſe Perſons was Voted <hi>Murther</hi> by <hi>the Honourable Houſe of Commons,</hi> and the obtaining a Grant to Execute <hi>Martial Law,</hi> and Signing Inſtructions to put the ſame <hi>in Execution, <hi>were adjudged Crimes;</hi>
+                  </hi> for which ſome Men might juſtly be Excepted out of the <hi>Act of Indemnity.</hi>
+               </p>
+               <p>Theſe are ſome few of <hi>their Proceedings</hi> toward their Fellow-Subjects, but it would require a very large Volume to give an Account of the reſt of them.</p>
+               <pb n="3" facs="tcp:154338:2"/>
+               <p>And Their Actions abroad, towards the <hi>Natives of</hi> India, have been no leſs to the <hi>Honour and Profit of the Nation,</hi> than what they have done to their Fellow Subjects <hi>at home.</hi>
+               </p>
+               <p>For, <hi>to the Honour and Profit of the Nation,</hi> After <hi>their Factors</hi> had run in Debt Three or Four Hundred Thouſand Pounds at <hi>Surat, their Preſident</hi> got away from thence <hi>without Paying it;</hi> and the greateſt part thereof remains <hi>
+                     <g ref="char:V">Ʋ</g>npaid even to this day;</hi> beſides the Reſtitution which they are to make.</p>
+               <p>
+                  <hi>To the Honour and Profit of the Nation,</hi> They gave Paſſes to the <hi>Mogul</hi>'s Subjects, for the ſecure Trading of their Ships; and afterwards Took thoſe very Ships <hi>who had their own Paſſes,</hi> which were <hi>Plundered and Robbed.</hi> How this agrees with <hi>the Faith of Nations,</hi> let all Men judge.</p>
+               <p>
+                  <hi>To the Honour and Profit of the Nation,</hi> They made a <hi>Cruel and Unjust War on the</hi> Mogul<hi>'s Subjects;</hi> on purpoſe to <hi>Plunder them,</hi> and ſend home thoſe Effects; thereby to <hi>avoid Paying their Juſt Debts.</hi>—</p>
+            </div>
+            <div n="2" type="part">
+               <head>And having thus given <hi>a ſhort Account</hi> of their having been a long time <hi>a Corporation, to the Honour and Profit of the Nation;</hi> I ſhall in the next place conſider <hi>Their Stock, both at Home and A broad,</hi> which they pretend to be Intrinſecally Worth above <hi>150 per Cent.</hi> which is <hi>1100000</hi> l.</head>
+               <p>
+                  <hi>You have the Companies honeſt Words,</hi> That their Stock is worth above 1100000 <hi>l.</hi> — which it amounts to at 150 <hi>l. per Cent.</hi> and they aſſerted it it to be worth Intrinſically more, in the Anſwer they gave to the Regulations of the Lords of the Council laſt year. — And certainly <hi>No Man</hi> will doubt the Truth of what <hi>they ſay,</hi> when they value it but at 744000 <hi>l.</hi> — For to be ſure, <hi>They <hi>will ſpeak nothing but Truth;</hi>
+                  </hi> it being well known what care they have always taken, <hi>to Aſſert nothing but what is So.</hi>
+               </p>
+               <div type="section">
+                  <head>Their Eſtate at Home, is Viſible:</head>
+                  <p n="1">1. <hi>By</hi> their having ſent out <hi>in Three Years time,</hi> viz. 1688/89, 1689/90, 1690/91, <hi>in Seven Ships,</hi> containing about 3000 Tunn, ſuch a <hi>Prodigious Summ</hi> as 26000 <hi>l.</hi>
+                  </p>
+                  <p n="2">2. <hi>By</hi> their having in <hi>England</hi> ſo <hi>Vast a Stock</hi> as 38901 <hi>l.</hi> 08 <hi>s.</hi> 08 <hi>d.</hi> to drive ſo <hi>Small a Trade</hi> as that to the <hi>Eaſt-Indies,</hi> (being not above <hi>One Quarter of the Trade of the World,</hi>) as may appear by their own Accounts given in to <hi>Parliament</hi> in 1691, (including therein 9920 <hi>l.</hi> for their Buildings,) though they had ſent out in Three whole Years time before about the <hi>full Summ</hi> of 26000 <hi>l.</hi> — and had about 9000 <hi>Tunn <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f Shipping</hi> arrived home, between the Time of their Accounts given in <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Parliament</hi> in 1689, to that of 1691.</p>
+                  <pb n="4" facs="tcp:154338:3"/>
+                  <p n="3">3. <hi>By</hi> their calling in 50 <hi>per cent.</hi> of their Stock before they could ſend out <hi>the laſt Years Ships,</hi> which was a publick Declaration to the World, they <hi>had a ſufficient Stock</hi> to carry on their Trade.</p>
+                  <p n="4">4. <hi>By</hi> their having <hi>ſo much Money</hi> left in <hi>England</hi> to carry on <hi>their Trade</hi> after the 50 <hi>per cent.</hi> was called in, that they are neceſſitated to draw in 744000 <hi>l.</hi> more this Year, <hi>to ſend out their</hi> 12 <hi>Ships,</hi> which <hi>they cannot do</hi> without it; and therefore they procured ⅓ to be appoint<g ref="char:EOLhyphen"/>ed to be <hi>
+                        <hi>paid down</hi> at the Subſcribing,</hi> and ⅔ at the 10th. <hi>January,</hi> and have agreed to allow 10 <hi>per cent,</hi> diſcount, <hi>to have the whole paid pre<g ref="char:EOLhyphen"/>ſently,</hi> that ſo they may <hi>pay themſelves</hi> the 50 <hi>per cent.</hi> they paid to ſend out the Ships <hi>laſt Year,</hi> and what they have ſince advanced to pay pro<g ref="char:EOLhyphen"/>miſcuous and other incident Charges for <hi>ſecret Services.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Their Eſtate Abroad is as viſible.</head>
+                  <p n="1">1. <hi>
+                        <hi>By</hi> their having ſent home in a few years</hi> above 2000 Tuns of their Shipping empty.</p>
+                  <p n="2">2. <hi>
+                        <hi>By</hi> their keeping their Ships</hi> ſo little a while in <hi>India,</hi> and ſending them home with ſuch <hi>conſiderable Cargoes</hi> and part full, when Goods were ſo <hi>Plenty,</hi> that they ſold here for double or three times their uſual Prizes. Two of theſe Ships now lately arrived, having been <hi>only about five years out,</hi> and Two of thoſe ſent out in 1689 and 1690 not yet returned, although Ships commonly ſtay out on that Voyage Eighteen or Twenty Months; <hi>which plainly ſhews</hi> the Reaſon that the Nation has not been ſupplied with <hi>Eaſt-India Commodities,</hi> has been (as they aſſert) becauſe <hi>His Majeſty</hi> would not let them have <hi>more Ships</hi> in 1689, and 1690.</p>
+                  <p n="3">3. <hi>
+                        <hi>By</hi> their Farming out their Trade to Foreigners</hi> and others, to lade <hi>Eaſt-India Goods</hi> on their Ships on permiſſion, and not Trading them<g ref="char:EOLhyphen"/>ſelves, when thoſe Goods were ſo plentiful here, that there was ſcarce any to be had, and that they ſold them for <hi>double or treble</hi> as much as uſual; which is a <hi>convincing Argument</hi> of the <hi>large Effects</hi> they have <hi>Abroad:</hi> And with what has been already obſerved, will fully make out their having there 828868 <hi>l.</hi> 00 <hi>s.</hi> 05 <hi>d. quick Stock,</hi> as was aſſerted by them in their Account given in Parliament, in 1691.</p>
+                  <p n="4">4. <hi>By</hi> their having ſuch a <hi>prodigious Summ</hi> of Money at <hi>Surratt,</hi> that their <hi>General or Preſident,</hi> and all their <hi>Factors there,</hi> by reaſon of their Debts, are <hi>confined to the Town,</hi> and not permitted to ſtir out of it without a Guard <hi>to watch them:</hi> And having ſo <hi>much Stock there,</hi> and ſo large a Credit, that they are forced to <hi>borrow Money</hi> to pay for the <hi>Charges of their Houſe keeping,</hi> when by their Accounts in 1691. they only pretended to have there 180000 <hi>l.</hi> beſides all Debts and Demands paid.</p>
+                  <p n="5">5. <hi>
+                        <hi>By</hi> their having had home in two Years</hi> ſuch a vaſt <hi>number of Shi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> and <hi>Goods,</hi> including this Ship now laſt arrived, makes together <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ships Burthen about 1400 Tun; and <hi>much of their Cargo ſo <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and fine, that it will ſcarce pay Cuſtom, Freight and Demo<gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                     <pb n="5" facs="tcp:154338:3" rendition="simple:additions"/>beſides, that great part of the beſt Goods have been on permiſſion for private Accounts, and in that time <hi>the Dutch</hi> have had home but Thirty-one Ships <hi>richly laden,</hi> containing about 15000 Tun, beſides Three caſt away, which ſhews that Goods <hi>cannot be had in the</hi> Eaſt Indies <hi>with<g ref="char:EOLhyphen"/>out <hi>Money.</hi>
+                     </hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>III. And having thus given an Account of their great <hi>Eſtate at Home and Abroad,</hi> I ſhall in the next place conſider the Third <hi>Reaſon</hi> propoſed, <hi>
+                     <hi>becauſe</hi> all their Charters,</hi> as well their Old ones as theſe Two <hi>lately obtained,</hi> are to be Confirmed by <hi>Act of Parliament.</hi>
+               </head>
+               <p>You have the Aſſurance of the <hi>Company's Word,</hi> which they have <hi>never yet broke,</hi> and therefore it ought not to be miſtruſted, <hi>that all their Charters</hi> ſhall be confirmed by <hi>Act of Parliament,</hi> they having by their Behaviour <hi>ſo well deſerved it.</hi>
+               </p>
+               <p n="1">1. <hi>Becauſe</hi> the Company have aſſerted <hi>for Law,</hi> That the <hi>King</hi> can exclude his Subjects from the <hi>Eaſt-India Trade</hi> without an <hi>Act of Par<g ref="char:EOLhyphen"/>liament,</hi> which makes the Concurrence of the Parliament unneceſſary; when <hi>His Majeſty</hi> in his <hi>Meſſage</hi> laſt Seſſions tells them expreſly, <hi>That their Concurrence is neceſſary to make a compleat and uſeful Set<g ref="char:EOLhyphen"/>tlement of that Trade.</hi>
+               </p>
+               <p n="2">2. <hi>Becauſe</hi> it makes the Trade <hi>ſo Diffuſive and National,</hi> by giving ſo <hi>ſmall a ſhare</hi> of it (as above 250000 <hi>l.</hi>) to Four or Five Men only, excluding none of the Nation from coming in who are weary of their <hi>Money.</hi>
+               </p>
+               <p n="3">3. <hi>Becauſe</hi> a Stock of 744000 <hi>l.</hi> will certainly drive a <hi>much greater Trade to the</hi> Eaſt-Indies, and will be <hi>more National</hi> and <hi>Diffuſive,</hi> and will alſo cope much better with the <hi>Dutch</hi> then ſo <hi>ſmall</hi> a Stock as <hi>Two Millions raiſed by new Subſcriptions.</hi>
+               </p>
+               <p n="4">4. <hi>Becauſe</hi> the <hi>Company</hi> by treating the <hi>
+                     <hi>Regulations</hi> of the Lords of the Council</hi> with ſo much Reſpect, and for the good Services which they have done the Nation, have obtained <hi>
+                     <hi>a new Charter</hi> according to their own Deſire,</hi> which they will make uſe of <hi>to eaſe <hi>thoſe</hi> of their Money,</hi> who have a mind to come and ſubſcribe; therefore they preſume on the like requital alſo from the <hi>Parliament,</hi> by having their ſaid Charters confirmed.</p>
+               <p n="5">5. <hi>Becauſe</hi> that this <hi>Company</hi> has been Eſtabliſh'd by <hi>Two new Charters,</hi> when the <hi>Honourable Houſe of Commons</hi> have twice addreſſed to have their <hi>Old Charters diſſolved.</hi>
+               </p>
+               <p>And its very remarkable, the <hi>Company</hi> are now <hi>Eſtabliſhed</hi> on the <hi>ſame Regulations,</hi> which were formerly propoſed to them by the <hi>Lords of the Council</hi> (to which they gave the modeſt Anſwer which His Majeſty ſent the <hi>Houſe of Commons laſt Seſſion</hi>) with little other difference than this only, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>That the Leading Men may keep <hi>their great Stocks,</hi> and have Liberty, <hi>
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e they never ſo great,</hi> each Man to write in</hi> 10000 <hi>l.</hi> more, <hi>and <hi>are to
+<pb n="6" facs="tcp:154338:4"/>give no Security,</hi> to make the Stock worth</hi> 744000 l. <hi>or ſo much <hi>as any thing,</hi> and may <hi>divide</hi> out all again in ſix Months, if they pleaſe;</hi> and theſe Differences are <hi>ſuch ſmall Trifles,</hi> that they ſignifie nothing, conſidering their making ſo <hi>honourable a War</hi> on the <hi>Mogul,</hi> and at the ſame time <hi>making</hi> ſuch large <hi>Dividends</hi> on purpoſe <hi>to put themſelves out of the power of a Parliament,</hi> and to embroil the Trade, <hi>giving it in a manner wholly to the <hi>Dutch,</hi>
+                  </hi> which are ſuch <hi>good Services as may well re<g ref="char:EOLhyphen"/>commend them;</hi> and they ought to prevail with <hi>all well meaning People, <hi>who are weary of their Money,</hi>
+                  </hi> not to delay <hi>one Minute</hi> in ſubſcribing; <hi>for they may be preſently eaſed of it,</hi> without any trouble, <hi>at the</hi> Eaſt-India <hi>Houſe.</hi>
+               </p>
+               <p>The Company certainly deſerve very well to have 744000 <hi>l. given them in that Trade for nothing,</hi> ſeeing that if they have not <hi>ſome Ad<g ref="char:EOLhyphen"/>vantage,</hi> they will have great cauſe to complain of <hi>a bad Bargain;</hi> but they are reſolved, that thoſe who come in <hi>ſhall pay the Fidler:</hi> And yet if any of them will be <hi>ſo juſt and honest</hi> as to help draw in the <hi>Simple and unwary, they ſhall be ſecured, <hi>eſpecially</hi>
+                  </hi> if they are of the ad<g ref="char:EOLhyphen"/>verſe Party, or can talk the thing <hi>well up and down</hi> the Town; <hi>for they ſhall have Dignified Men for their Security;</hi> that they ſhall looſe nothing; but have Principle and Intereſt repayed, if they pleaſe, <hi>in twelve Months.</hi> And as for the looſing a <hi>good Name,</hi> that's a <hi>ſilly Thing,</hi> ſo as there be a Penny to be got by it. What's more common than to have <hi>decoy Ducks</hi> to fetch in Game; ſuch Men ſhall have <hi>the Honour</hi> to ſerve for <hi>Trappanners</hi> to help deceive the unwary, whilſt others will run away with the <hi>Benefit.</hi>
+               </p>
+               <p>What remains, is laſtly to conſider the 4th. <hi>Reaſon</hi> propoſed.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Becauſe</hi> their <hi>Stock</hi> will <hi>Riſe conſiderably</hi> here, ſo ſoon as theſe <hi>Subſcri<g ref="char:EOLhyphen"/>ptions</hi> are Compleated, or any <hi>Ships Arrive,</hi> although it be not worth <hi>much,</hi> and that the Company ſhould not be Confirmed by Act of <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> and then one may eaſily <hi>Sell</hi> out again to <hi>Profit.</hi>
+               </head>
+               <p>
+                  <hi>Doubtleſs</hi> ſome ſuch <hi>Arguments</hi> were uſed formerly, to perſwade ſome <hi>Perſons to Buy Stock at</hi> 300 <hi>and</hi> 250 <hi>l.</hi> then was the time to Buy Stock? and ſo it is now; and the great <hi>Cauſe</hi> which they who followed that <hi>Advice,</hi> have to <hi>Thank</hi> them who gave it, is <hi>Reaſon</hi> ſufficient to in<g ref="char:EOLhyphen"/>duce them to <hi>follow it for the future;</hi> they believed the <hi>Doctrine</hi> then promoted, <hi>viz. Every thing is worth what it can be ſold for;</hi> and there<g ref="char:EOLhyphen"/>fore bought Stock at 300 <hi>per cent.</hi> But when they found their mi<g ref="char:EOLhyphen"/>ſtake, they complained of a <hi>bad Bargain;</hi> though <hi>certainly</hi> they had more <hi>Reaſon</hi> to <hi>Complain</hi> of thoſe who <hi>adviſed them to buy,</hi> than they had of thoſe <hi>that ſold,</hi> unleſs they did, as its ſaid ſome <hi>others have done,</hi> perſwade people to buy; when at the ſame time they were ſelling them<g ref="char:EOLhyphen"/>ſelves, and ſo ſell their <hi>own Stock</hi> in another Man's <hi>Name.</hi> If ſuch things have been <hi>done,</hi> what <hi>ſecurity</hi> is there that the ſame Men wil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not now again Chriſten their own <hi>Children firſt,</hi> to be ſure <hi>they</hi> wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have taken out <hi>all or more than their own,</hi> by the large <hi>Dividends</hi> fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>merly
+<pb n="7" facs="tcp:154338:4"/>
+                  <hi>made,</hi> can afford to ſell much <hi>better Penny worths,</hi> than they who are but now <hi>come in;</hi> and they will be glad of the firſt <hi>Opportunity</hi> to ſlip out: <hi>Moſt People</hi> are perſwaded to come in on this <hi>Proſpect,</hi> and ſome to be ſure muſt be <hi>diſappointed:</hi> What if the <hi>Subſcriptions</hi> ſhould not be <hi>Compleated?</hi> Or what if their <hi>Ships</hi> now <hi>Abroad,</hi> ſhould any of them <hi>Miſcarry?</hi> Why then truly, they muſt make the beſt of a bad <hi>Bargain,</hi> and may again with as much Reaſon <hi>Complain</hi> of a bad <hi>Pennyworth,</hi> and will have juſt the ſame <hi>Relief,</hi> to be <hi>laugh'd</hi> at for their <hi>Pains,</hi> in <hi>meddling</hi> with what they did not underſtand.</p>
+               <p>
+                  <hi>By what has been already Obſerved,</hi> it may plainly appear, that <hi>the late Company</hi> have been a long time <hi>a Corporation to the Honour and Profit of the Vation,</hi> and <hi>that their Stock is worth</hi> 744000 <hi>l. nay</hi> 1100000 <hi>l. and <hi>hat they will doubtleſs be confirmed by Act of Parliament, and that it will Riſe conſiderably.</hi>
+                  </hi> There might be much more added, if it were neceſſary, but this is thought ſufficient to induce <hi>all indifferent People,</hi> who are weary of their <hi>Money,</hi> to join with them by <hi>new Sub<g ref="char:EOLhyphen"/>ſcriptions,</hi> without delay, upon ſuch great Encouragements as theſe are. I ſhall only add one thing more.</p>
+               <p>That it will ſerve to enable 2 or 3 <hi>men to pay themſelves a conſiderable Sum of Money for what the Company owe them</hi> beſides the laſt 50 <hi>per cent.</hi> which is now made a <hi>Debt,</hi> and to Pay their other Debts beſides; which muſt likewiſe be paid out of this new <hi>Subſcription Money;</hi> and they ſhall have ſo much the more Money paid them, if they will Subſcribe it in the <hi>Stock. This is a very <hi>profitable and national</hi>
+                  </hi> Deſign, <hi>
+                     <hi>eſpecially</hi> for thoſe who are to receive the money out</hi> which is to be Subſcribed in; and <hi>its worth obſerving</hi> how, that to incline people to pay in 50 <hi>l. per cent.</hi> laſt Summer, they allowed 3 <hi>per cent.</hi> diſcount, and raiſed the Stock above 100 <hi>per cent.</hi> that ſo the <hi>managing men</hi> might draw in others, and get out what Money they had advanced, <hi>and that they might alſo ſend out the ſix Ships</hi> which <hi>for want of money</hi> they were forced to keep till <hi>June,</hi> which ſhould have gone in <hi>February</hi> before; and now they have ordered 10 <hi>l. per cent.</hi> diſcount for one months time, and they keep up the Stock at 93 <hi>l. per cent. <hi>to incline people to pay in all their Money freely</hi>
+                  </hi> by the 10th of <hi>December,</hi> that ſo they may be able to ſend out <hi>their</hi> 12 <hi>Ships this Year,</hi> and alſo to <hi>Pay themſelves</hi> what they have disburſed, together with the 50 <hi>l. per cent.</hi> they paid laſt year, and which is now <hi>to be Refunded; <hi>if people will put out their Eyes, and always be thus bubbled out of their Money as well as their Senſes,</hi>
+                  </hi> they may go on till they are weary<g ref="char:punc">▪</g> and perhaps this is done, that the old pretence might ſtill be urged for their continuance, <hi>viz. <hi>That a great many Widows, Or<g ref="char:EOLhyphen"/>phans, and Innocent and Ignorant People might not be Cheated and undone, if they ſhould be Diſſolved.</hi>
+                  </hi>
+               </p>
+               <p>But let not theſe Gentlemen deceive themſelves and others, Doubtleſs the <hi>Parliament</hi> will not be thus affronted, but will take notice of <hi>theſe <hi>Proceedings</hi>
+                  </hi> and Aſſert the <hi>Right and Liberty of the Subject to to the Freedom of this Trade</hi> which has been thus violated, and not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooſe <hi>ſo<g ref="char:cmbAbbrStroke">̄</g> great a Trade to the whole Nation,</hi> by giving it it either to
+<pb n="8" facs="tcp:154338:5"/>2 or 3 particular Men to make them <hi>as great as Dukes,</hi> or elſe to our <hi>Friends the Dutch,</hi> and therefore <hi>its to be hoped</hi> they will <hi>provide that all the Subjects of</hi> England <hi>may <hi>Freely Trade</hi> to the</hi> Eaſt-Indies, according to <hi>the Right</hi> whch they have <hi>by Law ſo to do, until this Trade be Setled by Act of Parliament;</hi> and thereby not only the <hi>Trade will be ſecured to the Nation,</hi> but the <hi>
+                     <hi>Iuſt Rights</hi> and <hi>Liberties of the People will be maintained and preſerved.</hi>
+                  </hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <p>I ſuppoſe theſe Reaſons will be ſufficient to convince any unin<g ref="char:EOLhyphen"/>tereſſed perſons, but if not, hereafter they ſhall have more: For the preſent I ſhall conclude with <hi>the Honeſt Popes Bleſſing</hi> on all thoſe who are ſtill willing to be <hi>deceived.</hi>
+               </p>
+               <q>
+                  <hi>Qui decipi volunt, Decipiantur.</hi>
+               </q>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
